@@ -1,0 +1,12 @@
+service: "spring-social-google"
+usecase: "open-source-fork"
+segment: "cxp"
+vertical: "is24"
+owner: "oscar.carballo@scout24.com"
+team: "galileo"
+criticality: "bronze"
+confidentiality: "company-internal"
+integrity: "non-critical"
+availability: "non-critical"
+data_protection_relevant: no
+repository_url: "https://github.com/AutoScout24/spring-social-google"
